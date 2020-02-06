@@ -1,0 +1,10 @@
+C:\Users\Muski\source\repos\Conjuntos\Conjuntos\bin\Debug\Conjuntos.exe.config
+C:\Users\Muski\source\repos\Conjuntos\Conjuntos\bin\Debug\Conjuntos.exe
+C:\Users\Muski\source\repos\Conjuntos\Conjuntos\bin\Debug\Conjuntos.pdb
+C:\Users\Muski\source\repos\Conjuntos\Conjuntos\obj\Debug\Conjuntos.Form1.resources
+C:\Users\Muski\source\repos\Conjuntos\Conjuntos\obj\Debug\Conjuntos.Properties.Resources.resources
+C:\Users\Muski\source\repos\Conjuntos\Conjuntos\obj\Debug\Conjuntos.csproj.GenerateResource.cache
+C:\Users\Muski\source\repos\Conjuntos\Conjuntos\obj\Debug\Conjuntos.csproj.CoreCompileInputs.cache
+C:\Users\Muski\source\repos\Conjuntos\Conjuntos\obj\Debug\Conjuntos.exe
+C:\Users\Muski\source\repos\Conjuntos\Conjuntos\obj\Debug\Conjuntos.pdb
+C:\Users\Muski\source\repos\Conjuntos\Conjuntos\obj\Debug\Conjuntos.csprojAssemblyReference.cache
